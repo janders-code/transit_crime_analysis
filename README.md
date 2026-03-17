@@ -1,4 +1,4 @@
-# Transit Infrastructure & Crime Proximity Analysis — Vancouver (2014–2024)
+# Transit Infrastructure & Crime Proximity Analysis Vancouver (2014–2024)
 
 Spatial analysis of the relationship between SkyTrain stations, major bus corridors, and reported crime incidents using Vancouver Police Department open data.
 
